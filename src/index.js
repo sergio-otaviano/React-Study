@@ -1,12 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import App from "./App";
+import BinarySearchApp from "./Component/BinarySearchApp";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
-    <App title="Contador de clicks" />
+    <BinarySearchApp />
   </React.StrictMode>,
   rootElement
 );

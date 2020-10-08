@@ -2,3 +2,10 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.BinarySearchApp {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 10px 50px;
+  border: solid 1px #0f0;
+}
